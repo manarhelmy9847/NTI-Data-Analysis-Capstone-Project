@@ -1,4 +1,4 @@
-# 🛒 Supermarket Sales Data – Cleaning and Analysis
+#  Supermarket Sales Data – Cleaning and Analysis
 
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)
@@ -13,19 +13,68 @@
 
 ---
 
-## 🔎 Project Overview
+##  Project Overview
 
 This project focuses on analyzing supermarket sales data from the first quarter of 2019. The objective is to extract insights, discover patterns, and make data-driven recommendations to better understand the supermarket's performance and customer behavior.
 
 ---
 
-## 📂 Data Sources
+## 📄 Pages
+
+###  Revenue Page
+Shows a full breakdown of total revenue across key dimensions.
+
+![Revenue Page](https://github.com/manarhelmy9847/NTI-Data-Analysis-Capstone-Project/blob/main/Pages/Revenue%20Page.png?raw=true)
+
+---
+
+###  Revenue Page with Visualization Tooltip
+Interactive view of revenue insights with tooltip-enabled charts.
+
+![Revenue Tooltip](https://github.com/manarhelmy9847/NTI-Data-Analysis-Capstone-Project/blob/main/Pages/Revenue%20Page%20with%20Visualization%20Tooltip.png?raw=true)
+
+---
+
+###  Revenue by Month Page
+Monthly trend of revenue to analyze seasonal performance.
+
+![Revenue by Month](https://github.com/manarhelmy9847/NTI-Data-Analysis-Capstone-Project/blob/main/Pages/Revenue%20by%20Month%20Page.png?raw=true)
+
+---
+
+###  Revenue by Day Page
+Daily revenue trends for operational insights.
+
+![Revenue by Day](https://github.com/manarhelmy9847/NTI-Data-Analysis-Capstone-Project/blob/main/Pages/Revenue%20by%20Day%20Page.png?raw=true)
+
+---
+
+###  Revenue by Day Page with Visualization Tooltip
+Same as daily view but with enhanced tooltips for interaction.
+
+![Revenue by Day Tooltip](https://github.com/manarhelmy9847/NTI-Data-Analysis-Capstone-Project/blob/main/Pages/Revenue%20by%20Day%20Page%20with%20Visualization%20Tooltip.png?raw=true)
+
+---
+
+###  Rating and Statistics Page
+Customer ratings, review trends, and core KPIs.
+
+![Rating and Stats](https://github.com/manarhelmy9847/NTI-Data-Analysis-Capstone-Project/blob/main/Pages/Rating%20and%20Statistics%20Page.png?raw=true)
+
+---
+
+###  Quantity Details Drill-Through Page
+Drill-through page for quantity sold per product and order.
+
+![Quantity Details Drill-Through](https://github.com/manarhelmy9847/NTI-Data-Analysis-Capstone-Project/blob/main/Pages/Quantity%20Details%20Drill-Through...png?raw=true)
+
+##  Data Sources
 
 The dataset used is titled **"Capstone Data - Supermarket Sales.csv"**, which contains detailed transactional data such as invoice numbers, customer information, payment methods, product categories, and timestamps.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Python**: For data cleaning, transformation, and analysis.  
 - **Power BI**: For interactive dashboards and visual storytelling.  
@@ -33,7 +82,7 @@ The dataset used is titled **"Capstone Data - Supermarket Sales.csv"**, which co
 
 ---
 
-## 🧹 Data Cleaning and Preparation
+##  Data Cleaning and Preparation
 
 Initial preprocessing included:
 
@@ -44,7 +93,7 @@ Initial preprocessing included:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Key questions explored during analysis:
 
@@ -61,7 +110,7 @@ Key questions explored during analysis:
 
 ---
 
-## 📈 Results and Findings
+##  Results and Findings
 
 1. **Total Revenue**:  
    - The total revenue during Q1 2019 was approximately **$323,000**.
@@ -103,9 +152,9 @@ Key questions explored during analysis:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
-### 🧼 Data Quality Issues
+###  Data Quality Issues
 
 To ensure clean and reliable data, the following issues were identified and addressed:
 
@@ -121,7 +170,7 @@ To ensure clean and reliable data, the following issues were identified and addr
 
 ---
 
-### 🧹 Data Tidiness Issues
+###  Data Tidiness Issues
 
 To improve structure and clarity:
 
